@@ -1,0 +1,11 @@
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\bin\Release\Inferno A3 Logger.exe
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\bin\Release\Inferno A3 Logger.pdb
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\Inferno_A3_Logger.Main.resources
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\Inferno_A3_Logger.Properties.Resources.resources
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\ResGen.read.1.tlog
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\ResGen.write.1.tlog
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\Inferno A3 Logger.exe
+E:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\Inferno A3 Logger.pdb
+D:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\Inferno A3 Logger.exe
+D:\Karthik\Projects\Inferno A3 Logger\Inferno A3 Logger\obj\x86\Release\Inferno A3 Logger.pdb
